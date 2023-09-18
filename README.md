@@ -8,5 +8,7 @@ https://play.google.com/store/apps/details?id=com.Redwhite.MyTeacher
 
 https://play.google.com/store/apps/details?id=com.Redwhite.MyTeacherLise
 
+https://play.google.com/store/apps/details?id=com.Redwhite.GubreKullanimRehberi
+
 Our support e-mail address:
 redwhitefeedback@hotmail.com
