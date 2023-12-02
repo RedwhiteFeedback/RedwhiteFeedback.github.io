@@ -10,5 +10,7 @@ https://play.google.com/store/apps/details?id=com.Redwhite.GubreKullanimRehberi
 
 https://play.google.com/store/apps/details?id=com.Redwhite.MyTeacherYDS
 
+https://play.google.com/store/apps/details?id=com.Redwhite.LongChain
+
 Our support e-mail address:
 redwhitefeedback@hotmail.com
